@@ -1,14 +1,14 @@
-# Colorbound Game Development Project
+# Colorbound
 Build a complete 2D game and engine _from scratch_ using standard web technologies.
 
 ## Objective
-* Gain an understanding of the fundamentals of game programming
+* Gain an understanding of the fundamentals of game/engine programming
 * Learn to write reusable code through refactoring
 * Create a fun and extendable game!
 
 ## Tools and Technologies
 * Google Chrome
-* A text editor (Sublime Text, Vim, Notepad++)
+* A text editor (Sublime Text, Vim, Notepad++, etc)
 * Javascript, HTML5
 
 ## Syllabus
